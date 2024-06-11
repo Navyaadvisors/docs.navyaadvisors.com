@@ -2,7 +2,7 @@
 
 **Contact Our Business Team**
 
-* Landline: <a href="mailto:+977-14-543680">+977-14-543680</a>
+* Landline: <a href="tel:+977-14-543680">+977-14-543680</a>
 * Email: <a href="mailto:niren.shrestha@navyaadvisors.com">niren.shrestha@navyaadvisors.com</a>, 
 <a href="mailto:sumit.shrestha@navyaadvisors.com">sumit.shrestha@navyaadvisors.com</a>
 
@@ -10,7 +10,7 @@
 
 **Contact Our Business Support**
 
-* Landline: <a href="mailto:+977-14-543680">+977-14-543680</a>
+* Landline: <a href="tel:+977-14-543680">+977-14-543680</a>
 * Email: <a href="mailto:info@navyaadvisors.com">info@navyaadvisors.com</a>
 
 **Contact Our Technical Team**
