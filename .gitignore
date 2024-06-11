@@ -1,0 +1,10 @@
+.docker/
+.env/
+*.orig
+docs/
+.idea/
+.idx/
+.venv/
+.vscode
+.venv
+.env
