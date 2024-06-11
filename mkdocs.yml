@@ -1,0 +1,62 @@
+site_name: "NAVYA: Web Services"
+
+site_url: https://docs.navyaadvisors.com
+
+nav:
+  - Background and Overview: index.md
+  - Process Overview: process-overview.md
+  - Integration: integration.md
+  - Reach Us: contact.md
+
+theme:
+  name: material
+  custom_dir: custom
+  features:
+    - content.code.annotate
+    - content.action.view
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  favicon: "https://navyaadvisors.com/static/dist/favicon.ico"
+  icon:
+    logo: "img/navya_advisors_logo_small"
+    repo: "fontawesome/brands/github"
+
+docs_dir: content
+
+repo_name: Navyaadvisors/docs.navyaadvisors.com
+repo_url: https://github.com/Navyaadvisors/docs.navyaadvisors.com
+edit_uri: "edit/main/content/"
+copyright: "Copyright &copy; 2024 Navya Advisors Limited"
+
+extra:
+  generator: False
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/navyaadvisors"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/NavyaAdvisors"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/company/navya-advisors/"
+    - icon: "fontawesome/brands/facebook"
+      link: "https://www.facebook.com/navyaadvisors/"
+    - icon: "fontawesome/brands/instagram"
+      link: "https://www.instagram.com/navyaadvisors/"
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
